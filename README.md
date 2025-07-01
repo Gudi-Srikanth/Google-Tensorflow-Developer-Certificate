@@ -31,7 +31,8 @@ Learn more about the certification here:
 
 ## 🗂️ File
 
-- `/TensorFlow_Developer_Certificate.pdf`
+- [image](https://github.com/user-attachments/assets/abbfb6b5-b4b4-4bba-aae4-39a0ffd5a81c)
+
 
 ---
 
