@@ -31,8 +31,7 @@ Learn more about the certification here:
 
 ## 🗂️ File
 
-- [image](https://github.com/user-attachments/assets/abbfb6b5-b4b4-4bba-aae4-39a0ffd5a81c)
-
+- [Certificate](./Srikanth_GoogleTensorFlowDeveloperCertificate.pdf)
 
 ---
 
